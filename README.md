@@ -13,7 +13,7 @@
 for simplicity,just copy and coding
 
 we don't say anymore
-```javascript
+```HTML
 <script src="https://cdn.ank.uno/github/pomeloJ/pomeloSwitch/pswitch.js"></script>
 ```
 
